@@ -1,0 +1,12 @@
+{
+	"id": 15553945,
+	"epoch_second": 1596203772,
+	"problem_id": "nikkei2019_qual_c",
+	"contest_id": "nikkei2019-qual",
+	"user_id": "polyester",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 400,
+	"length": 624,
+	"result": "AC",
+	"execution_time": 76
+}

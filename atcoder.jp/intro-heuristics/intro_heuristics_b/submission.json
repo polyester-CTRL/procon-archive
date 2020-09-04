@@ -1,0 +1,12 @@
+{
+	"id": 14811336,
+	"epoch_second": 1593347872,
+	"problem_id": "intro_heuristics_b",
+	"contest_id": "intro-heuristics",
+	"user_id": "polyester",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 1,
+	"length": 880,
+	"result": "AC",
+	"execution_time": 10
+}

@@ -1,0 +1,12 @@
+{
+	"id": 15188928,
+	"epoch_second": 1594484383,
+	"problem_id": "aising2020_d",
+	"contest_id": "aising2020",
+	"user_id": "polyester",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 400,
+	"length": 1588,
+	"result": "AC",
+	"execution_time": 146
+}
