@@ -1,0 +1,12 @@
+{
+	"id": 17751126,
+	"epoch_second": 1604145963,
+	"problem_id": "arc107_a",
+	"contest_id": "arc107",
+	"user_id": "polyester",
+	"language": "C++ (Clang 10.0.0)",
+	"point": 300,
+	"length": 504,
+	"result": "AC",
+	"execution_time": 6
+}
