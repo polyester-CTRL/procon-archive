@@ -1,0 +1,12 @@
+{
+	"id": 17925975,
+	"epoch_second": 1604745903,
+	"problem_id": "m_solutions2019_d",
+	"contest_id": "m-solutions2019",
+	"user_id": "polyester",
+	"language": "C++ (Clang 10.0.0)",
+	"point": 500,
+	"length": 1099,
+	"result": "AC",
+	"execution_time": 33
+}
