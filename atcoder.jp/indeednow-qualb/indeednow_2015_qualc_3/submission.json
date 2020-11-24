@@ -1,0 +1,12 @@
+{
+	"id": 18385747,
+	"epoch_second": 1606208176,
+	"problem_id": "indeednow_2015_qualc_3",
+	"contest_id": "indeednow-qualb",
+	"user_id": "polyester",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 975,
+	"result": "AC",
+	"execution_time": 89
+}
