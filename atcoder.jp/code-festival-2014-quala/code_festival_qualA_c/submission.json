@@ -1,0 +1,12 @@
+{
+	"id": 18702778,
+	"epoch_second": 1607782862,
+	"problem_id": "code_festival_qualA_c",
+	"contest_id": "code-festival-2014-quala",
+	"user_id": "polyester",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 453,
+	"result": "AC",
+	"execution_time": 8
+}
