@@ -1,0 +1,12 @@
+{
+	"id": 18927117,
+	"epoch_second": 1608561801,
+	"problem_id": "code_formula_2014_qualB_b",
+	"contest_id": "code-formula-2014-qualb",
+	"user_id": "polyester",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 600,
+	"result": "AC",
+	"execution_time": 8
+}
