@@ -1,0 +1,12 @@
+{
+	"id": 20389700,
+	"epoch_second": 1613912627,
+	"problem_id": "arc113_b",
+	"contest_id": "arc113",
+	"user_id": "polyester",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 400,
+	"length": 1020,
+	"result": "AC",
+	"execution_time": 7
+}
