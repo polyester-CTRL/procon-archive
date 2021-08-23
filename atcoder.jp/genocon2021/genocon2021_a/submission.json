@@ -1,0 +1,12 @@
+{
+	"id": 25303479,
+	"epoch_second": 1629739823,
+	"problem_id": "genocon2021_a",
+	"contest_id": "genocon2021",
+	"user_id": "polyester",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 681,
+	"result": "AC",
+	"execution_time": 16
+}
