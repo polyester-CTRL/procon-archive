@@ -1,0 +1,12 @@
+{
+	"id": 34007712,
+	"epoch_second": 1660394840,
+	"problem_id": "abc264_d",
+	"contest_id": "abc264",
+	"user_id": "polyester",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 400,
+	"length": 952,
+	"result": "AC",
+	"execution_time": 7
+}
